@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StatisticsLZF</string>
+
+    <!--columnar 柱状统计图用-->
+    <string name="degree_centigrade">&#176;C</string>
+</resources>
